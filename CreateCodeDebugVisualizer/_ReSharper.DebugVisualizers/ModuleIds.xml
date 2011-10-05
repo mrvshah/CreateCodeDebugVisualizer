@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A" ModuleId="SaveAnInstanceVisualizer" />
+  <Module PersistentId="519670A3-DEA5-4A1E-B1D8-3B37792FF22A" ModuleId="Tests_1" />
+  <Module PersistentId="B2D30D73-66C5-40AB-8248-CD061B8CCEC8" ModuleId="App" />
+  <Module PersistentId="D34CB0C6-88E0-4281-91C3-E671661DEC94" ModuleId="BusinessObjects" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="Microsoft.VisualStudio.DebuggerVisualizers" />
+  <Module PersistentId="AF741C4F-3527-497D-8592-A9D9AE9A350A" ModuleId="CreateCodeVisualizerWindow" />
+</Modules>

@@ -1,0 +1,394 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="typeof" priority="10" />
+      <Item value="SaveInstanceVisualizer`0" priority="0" />
+      <Item value="FormatException`0" priority="0" />
+      <Item value="objectProvider" priority="3" />
+      <Item value="object" priority="26" />
+      <Item value="windowService" priority="1" />
+      <Item value="cw" priority="9" />
+      <Item value="data" priority="0" />
+      <Item value="Test`0" priority="1" />
+      <Item value="public" priority="34" />
+      <Item value="void" priority="14" />
+      <Item value="class" priority="5" />
+      <Item value="string" priority="48" />
+      <Item value="int" priority="8" />
+      <Item value="var" priority="29" />
+      <Item value="new" priority="40" />
+      <Item value="Customer`0" priority="6" />
+      <Item value="Name" priority="3" />
+      <Item value="Age" priority="2" />
+      <Item value="customer" priority="15" />
+      <Item value="Visualizer1`0" priority="0" />
+      <Item value="Serializable" priority="0" />
+      <Item value="System" priority="5" />
+      <Item value="Object`0" priority="1" />
+      <Item value="static" priority="11" />
+      <Item value="str" priority="6" />
+      <Item value="TestAttribute`0" priority="6" />
+      <Item value="UriHostNameType`0" priority="0" />
+      <Item value="AggregateException`0" priority="0" />
+      <Item value="WeakReference`0" priority="3" />
+      <Item value="override" priority="0" />
+      <Item value="CreateObjectTests`0" priority="0" />
+      <Item value="Customer" priority="1" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="this" priority="6" />
+      <Item value="return" priority="11" />
+      <Item value="obj" priority="27" />
+      <Item value="type" priority="5" />
+      <Item value="typeName" priority="0" />
+      <Item value="Is`0" priority="0" />
+      <Item value="foreach" priority="1" />
+      <Item value="StringBuilder" priority="2" />
+      <Item value="sb" priority="27" />
+      <Item value="propertyInfo" priority="40" />
+      <Item value="instanceName" priority="5" />
+      <Item value="Public" priority="0" />
+      <Item value="null" priority="21" />
+      <Item value="if" priority="14" />
+      <Item value="is" priority="2" />
+      <Item value="else" priority="5" />
+      <Item value="StringBuilder`0" priority="3" />
+      <Item value="CreateObjectInitializationCode`0" priority="0" />
+      <Item value="CreateObjectAssignmentCode`0" priority="3" />
+      <Item value="using" priority="7" />
+      <Item value="window" priority="2" />
+      <Item value="bool" priority="5" />
+      <Item value="IsRegistered" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="IList" priority="0" />
+      <Item value="private" priority="1" />
+      <Item value="GetPopulatedCustomer`0" priority="4" />
+      <Item value="ComponentModel" priority="0" />
+      <Item value="Collections" priority="0" />
+      <Item value="CodeDom" priority="0" />
+      <Item value="ComponentSerializationService`0" priority="0" />
+      <Item value="DesignerLoader`0" priority="0" />
+      <Item value="CodeExpression`0" priority="0" />
+      <Item value="CodeExpression" priority="0" />
+      <Item value="ce" priority="1" />
+      <Item value="Linq" priority="1" />
+      <Item value="List`0" priority="2" />
+      <Item value="CSharpCodeProvider" priority="0" />
+      <Item value="cs" priority="0" />
+      <Item value="serializer" priority="1" />
+      <Item value="XmlSerializer" priority="0" />
+      <Item value="stream" priority="2" />
+      <Item value="FileStream`0" priority="0" />
+      <Item value="CreateNew" priority="0" />
+      <Item value="MemoryStream`0" priority="1" />
+      <Item value="memoryStream" priority="3" />
+      <Item value="Encoding`0" priority="0" />
+      <Item value="xmlTextWriter" priority="1" />
+      <Item value="UTF8Encoding`0" priority="0" />
+      <Item value="IEnumerable`0" priority="2" />
+      <Item value="child" priority="3" />
+      <Item value="Addresses" priority="0" />
+      <Item value="SetUpAttribute`0" priority="0" />
+      <Item value="Address`0" priority="0" />
+      <Item value="code" priority="0" />
+      <Item value="parent" priority="0" />
+      <Item value="out" priority="2" />
+      <Item value="childName" priority="2" />
+      <Item value="objName" priority="0" />
+      <Item value="atiet" priority="0" />
+      <Item value="Console`0" priority="0" />
+      <Item value="cr" priority="2" />
+      <Item value="try" priority="1" />
+      <Item value="throw" priority="1" />
+      <Item value="Exception" priority="1" />
+      <Item value="C`0" priority="0" />
+      <Item value="c" priority="0" />
+      <Item value="t" priority="2" />
+      <Item value="Trace`0" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="assembly" priority="1" />
+      <Item value="InternalsVisibleTo" priority="0" />
+      <Item value="objIndex" priority="2" />
+      <Item value="DrivingLicense`0" priority="0" />
+      <Item value="DrivingLicense" priority="1" />
+      <Item value="LicenseNumber" priority="1" />
+      <Item value="drivingLicenses" priority="0" />
+      <Item value="index" priority="2" />
+      <Item value="i" priority="1" />
+      <Item value="ctor" priority="4" />
+      <Item value="where" priority="1" />
+      <Item value="T`0" priority="5" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="ObjectWrapper" priority="0" />
+      <Item value="newObj" priority="0" />
+      <Item value="const" priority="0" />
+      <Item value="MockCustomerProvider`0" priority="0" />
+      <Item value="dynamic" priority="1" />
+      <Item value="d" priority="2" />
+      <Item value="ObjectWrapper`0" priority="2" />
+      <Item value="ex" priority="0" />
+      <Item value="Diagnostics" priority="0" />
+      <Item value="DebuggerVisualizer" priority="0" />
+      <Item value="Array`0" priority="6" />
+      <Item value="TypeExtensions`0" priority="0" />
+      <Item value="PropertyInfoExtensions`0" priority="1" />
+      <Item value="IEnumerableInitializationCode`0" priority="1" />
+      <Item value="IFormatProvider`0" priority="0" />
+      <Item value="genericTypeName" priority="0" />
+      <Item value="variableName" priority="0" />
+      <Item value="EnumerableInitializationCode`0" priority="1" />
+      <Item value="chars" priority="6" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="Stopwatch" priority="0" />
+      <Item value="Tests" priority="0" />
+      <Item value="TestFixtureAttribute`0" priority="0" />
+      <Item value="sw" priority="5" />
+      <Item value="for" priority="1" />
+      <Item value="PropertyInfo`0" priority="0" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="list" priority="0" />
+      <Item value="childObj" priority="0" />
+      <Item value="IDictionary" priority="0" />
+      <Item value="dictionary" priority="2" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="0" />
+      <Item value="KeyValuePair&lt;string,string&gt;" priority="0" />
+      <Item value="CodeTypeMember" priority="0" />
+      <Item value="tw" priority="0" />
+      <Item value="CodeGeneratorOptions" priority="0" />
+      <Item value="BlankLinesBetweenMembers" priority="0" />
+      <Item value="false" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.VisualStudio.DebuggerVisualizers.IVisualizerObjectProvider">
+      <Item value="GetObject`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.VisualStudio.DebuggerVisualizers.IDialogVisualizerService">
+      <Item value="ShowDialog`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.VisualStudio.DebuggerVisualizers.VisualizerDevelopmentHost">
+      <Item value="DebuggeeObject" priority="0" />
+      <Item value="ShowVisualizer`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SaveAnInstanceVisualizer.DebuggerSide">
+      <Item value="TestShowVisualizer`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="11" />
+      <Item value="Empty" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.WeakReference">
+      <Item value="Target" priority="1" />
+      <Item value="CreateCode`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CreateAnObjectVisualizer.CreateObject">
+      <Item value="TestShowVisualizer`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType`0" priority="4" />
+      <Item value="CreateCode`0" priority="2" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="IsOfTypeIEnumerable`0" priority="0" />
+      <Item value="IsOfType`1" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="6" />
+      <Item value="GetProperties`0" priority="0" />
+      <Item value="IsAssignableFrom`0" priority="3" />
+      <Item value="IsGenericType" priority="0" />
+      <Item value="GetGenericTypeDefinition`0" priority="0" />
+      <Item value="GetGenericArguments`0" priority="2" />
+      <Item value="GetHashCode`0" priority="0" />
+      <Item value="GetElementType`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Is">
+      <Item value="EqualTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToLower`0" priority="3" />
+      <Item value="Substring`0" priority="0" />
+      <Item value="ToCamelCase`0" priority="3" />
+      <Item value="Contains`0" priority="2" />
+      <Item value="GetHashCode`0" priority="1" />
+      <Item value="ToCharArray`0" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="First`1" priority="0" />
+      <Item value="ToCamelCaseUsingArr`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BusinessObjects.Customer">
+      <Item value="CreateObjectAssignmentCode`0" priority="1" />
+      <Item value="CreateCode`0" priority="1" />
+      <Item value="CreateObjectInitializationCode`0" priority="0" />
+      <Item value="DrivingLicenses" priority="2" />
+      <Item value="UnSupportedType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="AppendLine`0" priority="11" />
+      <Item value="ToString`0" priority="3" />
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.PropertyInfo">
+      <Item value="Name" priority="4" />
+      <Item value="GetValue`0" priority="7" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="PropertyType" priority="14" />
+      <Item value="IsOfType`1" priority="6" />
+      <Item value="GetValueOfNonIndexProperty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CreateCodeVisualizerWindow.Window">
+      <Item value="txtCode" priority="0" />
+      <Item value="pgObject" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PropertyGrid">
+      <Item value="SelectedObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.Design.Serialization.CodeDomSerializer">
+      <Item value="Deserialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Serialization.XmlSerializer">
+      <Item value="Serialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="UTF8" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlTextWriter">
+      <Item value="BaseStream" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.UTF8Encoding">
+      <Item value="GetString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.MemoryStream">
+      <Item value="ToArray`0" priority="0" />
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="ToArray`0" priority="2" />
+      <Item value="IndexOf`0" priority="0" />
+      <Item value="Insert`0" priority="1" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Tests.C">
+      <Item value="GetCustomer`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Trace">
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="StackTrace" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="HasValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Tests.MockCustomerProvider">
+      <Item value="GetCustomer`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CreateCodeVisualizer.ObjectWrapper">
+      <Item value="WrappedObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VisualizerUI.Window">
+      <Item value="txtCode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Void">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Stopwatch">
+      <Item value="Start`0" priority="0" />
+      <Item value="Stop`0" priority="0" />
+      <Item value="Reset`0" priority="1" />
+      <Item value="Elapsed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IDictionary`2">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.CSharp.CSharpCodeProvider">
+      <Item value="GenerateCodeFromMember`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeTypeMember">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StringWriter">
+      <Item value="GetStringBuilder`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B2D30D73-66C5-40AB-8248-CD061B8CCEC8/d:Properties/f:AssemblyInfo.cs" caret="232" fromTop="5" />
+      <File id="D34CB0C6-88E0-4281-91C3-E671661DEC94/f:Address.cs" caret="0" fromTop="0" />
+      <File id="D34CB0C6-88E0-4281-91C3-E671661DEC94/f:DrivingLicense.cs" caret="0" fromTop="0" />
+      <File id="D34CB0C6-88E0-4281-91C3-E671661DEC94/f:Customer.cs" caret="0" fromTop="0" />
+      <File id="D34CB0C6-88E0-4281-91C3-E671661DEC94/f:CreditCard.cs" caret="0" fromTop="0" />
+      <File id="D34CB0C6-88E0-4281-91C3-E671661DEC94/f:Country.cs" caret="0" fromTop="0" />
+      <File id="B2D30D73-66C5-40AB-8248-CD061B8CCEC8/f:Program.cs" caret="0" fromTop="0" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:MockCustomerProvider.cs" caret="0" fromTop="0" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="0" fromTop="0" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeVisualizerTests.cs" caret="0" fromTop="0" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectExtensions.cs" caret="0" fromTop="0" />
+      <File id="AF741C4F-3527-497D-8592-A9D9AE9A350A/f:Window.cs" caret="0" fromTop="0" />
+      <File id="AF741C4F-3527-497D-8592-A9D9AE9A350A/f:Program.cs" caret="0" fromTop="0" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:StringExtensions.cs" caret="0" fromTop="0" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:PropertyInfoExtensions.cs" caret="0" fromTop="0" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeVisualizer.cs" caret="0" fromTop="0" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2663" fromTop="28" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2881" fromTop="23" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:StringExtensions.cs" caret="218" fromTop="17" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:StringExtensions.cs" caret="214" fromTop="11" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:StringExtensions.cs" caret="0" fromTop="0" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="1379" fromTop="14" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:PropertyInfoExtensions.cs" caret="393" fromTop="13" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="1551" fromTop="18" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2660" fromTop="23" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2881" fromTop="34" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="878" fromTop="24" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="404" fromTop="13" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="786" fromTop="20" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2660" fromTop="19" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="296" fromTop="11" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2660" fromTop="17" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="1901" fromTop="16" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="296" fromTop="11" />
+      <File id="D34CB0C6-88E0-4281-91C3-E671661DEC94/f:CreditCard.cs" caret="138" fromTop="7" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2881" fromTop="25" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="296" fromTop="32" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="296" fromTop="11" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2881" fromTop="28" />
+      <File id="D34CB0C6-88E0-4281-91C3-E671661DEC94/f:Customer.cs" caret="463" fromTop="15" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:MockCustomerProvider.cs" caret="1128" fromTop="26" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="296" fromTop="15" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeVisualizerTests.cs" caret="299" fromTop="18" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeVisualizerTests.cs" caret="299" fromTop="12" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeVisualizerTests.cs" caret="13" fromTop="0" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="13" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
