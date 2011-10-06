@@ -1,6 +1,5 @@
 using System;
 using NUnit.Framework;
-using Visualizer;
 using Visualizer.Extensions;
 
 namespace Tests

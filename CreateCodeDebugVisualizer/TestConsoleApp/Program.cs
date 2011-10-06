@@ -22,6 +22,10 @@ namespace TestConsoleApp
 			                      	};
 			customer.DrivingLicenses = drivingLicenses.ToArray();
 			customer.Addresses = addresses;
+
+			IDictionary<string, string> dictionary = new Dictionary<string, string>();
+			dictionary.Add(new KeyValuePair<string, string>("Viral", "Shah"));
+			customer.UnSupportedType = dictionary;
 		}
 	}
 }

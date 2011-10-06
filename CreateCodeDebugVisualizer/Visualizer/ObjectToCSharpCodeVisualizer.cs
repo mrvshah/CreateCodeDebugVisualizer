@@ -4,7 +4,7 @@ using Visualizer;
 using Visualizer.Extensions;
 using VisualizerUI;
 
-[assembly: System.Diagnostics.DebuggerVisualizer(typeof(ObjectToCSharpCodeVisualizer), typeof(VisualizerObjectSource), Target = typeof(WeakReference), Description = "Create c# Code")]
+[assembly: System.Diagnostics.DebuggerVisualizer(typeof(ObjectToCSharpCodeVisualizer), typeof(VisualizerObjectSource), Target = typeof(WeakReference), Description = "Create C# Code")]
 
 namespace Visualizer
 {

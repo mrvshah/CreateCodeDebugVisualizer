@@ -113,8 +113,8 @@
       <Item value="t" priority="2" />
       <Item value="Trace`0" priority="0" />
       <Item value="e" priority="0" />
-      <Item value="assembly" priority="1" />
-      <Item value="InternalsVisibleTo" priority="0" />
+      <Item value="assembly" priority="2" />
+      <Item value="InternalsVisibleTo" priority="1" />
       <Item value="objIndex" priority="2" />
       <Item value="DrivingLicense`0" priority="0" />
       <Item value="DrivingLicense" priority="1" />
@@ -164,6 +164,8 @@
       <Item value="CodeGeneratorOptions" priority="0" />
       <Item value="BlankLinesBetweenMembers" priority="0" />
       <Item value="false" priority="0" />
+      <Item value="IgnoreAttribute`0" priority="0" />
+      <Item value="CategoryAttribute`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Microsoft.VisualStudio.DebuggerVisualizers.IVisualizerObjectProvider">
       <Item value="GetObject`0" priority="2" />
@@ -232,6 +234,7 @@
       <Item value="CreateObjectInitializationCode`0" priority="0" />
       <Item value="DrivingLicenses" priority="2" />
       <Item value="UnSupportedType" priority="0" />
+      <Item value="Age" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Text.StringBuilder">
       <Item value="AppendLine`0" priority="11" />
@@ -336,49 +339,50 @@
       <File id="D34CB0C6-88E0-4281-91C3-E671661DEC94/f:Customer.cs" caret="0" fromTop="0" />
       <File id="D34CB0C6-88E0-4281-91C3-E671661DEC94/f:CreditCard.cs" caret="0" fromTop="0" />
       <File id="D34CB0C6-88E0-4281-91C3-E671661DEC94/f:Country.cs" caret="0" fromTop="0" />
-      <File id="B2D30D73-66C5-40AB-8248-CD061B8CCEC8/f:Program.cs" caret="0" fromTop="0" />
-      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:MockCustomerProvider.cs" caret="0" fromTop="0" />
-      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="0" fromTop="0" />
-      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeVisualizerTests.cs" caret="0" fromTop="0" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectExtensions.cs" caret="0" fromTop="0" />
       <File id="AF741C4F-3527-497D-8592-A9D9AE9A350A/f:Window.cs" caret="0" fromTop="0" />
       <File id="AF741C4F-3527-497D-8592-A9D9AE9A350A/f:Program.cs" caret="0" fromTop="0" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:StringExtensions.cs" caret="0" fromTop="0" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:PropertyInfoExtensions.cs" caret="0" fromTop="0" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeVisualizer.cs" caret="0" fromTop="0" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="0" fromTop="0" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Properties/f:AssemblyInfo.cs" caret="728" fromTop="16" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:PropertyInfoExtensions.cs" caret="0" fromTop="0" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:StringExtensions.cs" caret="0" fromTop="0" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeVisualizer.cs" caret="312" fromTop="6" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:MockCustomerProvider.cs" caret="1173" fromTop="28" />
+      <File id="B2D30D73-66C5-40AB-8248-CD061B8CCEC8/f:Program.cs" caret="992" fromTop="25" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:ObjectExtensions.cs" caret="0" fromTop="0" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeVisualizerTests.cs" caret="0" fromTop="0" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:ObjectToCSharpCodeExtensions.cs" caret="929" fromTop="5" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="291" fromTop="12" />
     </RecentFiles>
     <RecentEdits>
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2663" fromTop="28" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2881" fromTop="23" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:StringExtensions.cs" caret="218" fromTop="17" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:StringExtensions.cs" caret="214" fromTop="11" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:StringExtensions.cs" caret="0" fromTop="0" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="1379" fromTop="14" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:PropertyInfoExtensions.cs" caret="393" fromTop="13" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="1551" fromTop="18" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2660" fromTop="23" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2881" fromTop="34" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="878" fromTop="24" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="404" fromTop="13" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="786" fromTop="20" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2660" fromTop="19" />
-      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="296" fromTop="11" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2660" fromTop="17" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="1901" fromTop="16" />
-      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="296" fromTop="11" />
       <File id="D34CB0C6-88E0-4281-91C3-E671661DEC94/f:CreditCard.cs" caret="138" fromTop="7" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2881" fromTop="25" />
-      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="296" fromTop="32" />
-      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="296" fromTop="11" />
-      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeExtensions.cs" caret="2881" fromTop="28" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:ObjectToCSharpCodeExtensions.cs" caret="3049" fromTop="25" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="307" fromTop="32" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="307" fromTop="11" />
       <File id="D34CB0C6-88E0-4281-91C3-E671661DEC94/f:Customer.cs" caret="463" fromTop="15" />
       <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:MockCustomerProvider.cs" caret="1128" fromTop="26" />
-      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="296" fromTop="15" />
-      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeVisualizerTests.cs" caret="299" fromTop="18" />
-      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeVisualizerTests.cs" caret="299" fromTop="12" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeVisualizerTests.cs" caret="307" fromTop="18" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeVisualizerTests.cs" caret="307" fromTop="12" />
       <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeVisualizerTests.cs" caret="13" fromTop="0" />
-      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="13" fromTop="0" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeVisualizer.cs" caret="858" fromTop="28" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Properties/f:AssemblyInfo.cs" caret="723" fromTop="15" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:ObjectExtensions.cs" caret="31" fromTop="0" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:ObjectToCSharpCodeExtensions.cs" caret="3049" fromTop="87" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:PropertyInfoExtensions.cs" caret="38" fromTop="2" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:StringExtensions.cs" caret="10" fromTop="0" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:ObjectToCSharpCodeExtensions.cs" caret="1342" fromTop="30" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:ObjectToCSharpCodeExtensions.cs" caret="1523" fromTop="34" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:ObjectToCSharpCodeExtensions.cs" caret="1952" fromTop="30" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:ObjectToCSharpCodeExtensions.cs" caret="2225" fromTop="30" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:ObjectToCSharpCodeExtensions.cs" caret="311" fromTop="15" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:ObjectToCSharpCodeExtensions.cs" caret="1865" fromTop="13" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:ObjectToCSharpCodeExtensions.cs" caret="3004" fromTop="40" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/d:Extensions/f:ObjectToCSharpCodeExtensions.cs" caret="1084" fromTop="37" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeVisualizer.cs" caret="1092" fromTop="27" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeVisualizerTests.cs" caret="164" fromTop="9" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:MockCustomerProvider.cs" caret="850" fromTop="20" />
+      <File id="9D76C4AA-62A2-4ABD-9B46-1168F0B35E8A/f:ObjectToCSharpCodeVisualizer.cs" caret="312" fromTop="6" />
+      <File id="B2D30D73-66C5-40AB-8248-CD061B8CCEC8/f:Program.cs" caret="1146" fromTop="28" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="37" fromTop="1" />
+      <File id="519670A3-DEA5-4A1E-B1D8-3B37792FF22A/f:ObjectToCSharpCodeExtensionsTests.cs" caret="291" fromTop="12" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
